@@ -1,7 +1,7 @@
 #
 a = float(input("Enter the first number: "))
 b = float(input("Enter the second number: "))
-# Performing operations
+# operations
 c = a + b
 d = a - b
 e = a * b
