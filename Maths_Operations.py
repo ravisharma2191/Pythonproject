@@ -9,4 +9,5 @@ f = a / b
 print(f"Addition: {int(c)}")
 print(f"Subtraction: {int(d)}")
 print(f"Multiplication: {int(e)}")
+print(f"Division: {int(f)}")
 
