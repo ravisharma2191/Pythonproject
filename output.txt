@@ -1,0 +1,2 @@
+Hello, Python
+learning file handing in python on 12-10-25.
